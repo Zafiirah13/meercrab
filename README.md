@@ -4,7 +4,9 @@
 [![stars](https://img.shields.io/github/stars/Zafiirah13/meercrab)](https://github.com/Zafiirah13/meercrab/stargazers)
 
 # MeerCRAB
-MeerLICHT Classification of Real And Bogus using deep learning
+MeerLICHT Classification of Real And Bogus using deep learning. MeerCRAB is a deep learning model based on Convolutional Neural Network as illustrated in the Figure below. The work has been accepted at the Machine Learning and Physical Sciences Workshop in NeurIPS conference 2020. See a PDF version here.
+
+![alt tag](./plots/multi-input-FRBID.png)
 
 Author: Zafiirah Hosenie
 
