@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# transient_classification
- 
 =======
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4049943.svg)](https://doi.org/10.5281/zenodo.4049943)
 [![issues](https://img.shields.io/github/issues/Zafiirah13/meercrab)](https://github.com/Zafiirah13/meercrab/issues)
