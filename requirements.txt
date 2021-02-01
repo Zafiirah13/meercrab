@@ -1,0 +1,12 @@
+h5py==2.10.0
+imbalanced-learn==0.7.0
+Keras==2.0.9
+matplotlib==3.3.0
+pandas==1.0.5
+Pillow==7.2.0
+scikit-learn==0.23.1
+scipy==1.5.2
+tensorboard==1.9.0
+tensorflow==1.9.0
+numpy==1.19.1
+astropy==4.0.1
