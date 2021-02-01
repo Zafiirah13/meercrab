@@ -79,3 +79,4 @@ How to perform prediction on new candidate images without training using Jupyter
 - Input to the function code: 'realbogus_prediction' should be of the shape (Nimages, 30, 30, 4), select which model we want to load, for e.g 'NET1_32_64','NET1_64_128','NET1_128_256','NET1','NET2','NET3' and give the ID of the images.
 - The function will output the probability that each candidate is a real source with values varying from [0,1]
 
+
