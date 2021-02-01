@@ -5,11 +5,6 @@ MeerLICHT Classification of Real And Bogus using deep learning.
 Author: Zafiirah Hosenie
 Email: zafiirah.hosenie@gmail.com or zafiirah.hosenie@postgrad.manchester.ac.uk
 
-==========
-Disclaimer
-==========
-
-The source code is published under the GNU General Public License (GPLv2). The authors are not responsible for any implications that stem from the use of this software.
 
 =======================
 How to train the model?
