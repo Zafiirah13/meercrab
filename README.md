@@ -30,7 +30,7 @@ How to train the model using python script train.py?
 ---
 To specify specific parameters, run:
 
-    python train.py -m NET3 -n NRDS -minP 35 -maxP 65 -t theshold_9 -train True -mp ./meerCRAB_model/
+    python train.py -m NET3 -n NRD -minP 35 -maxP 65 -t theshold_9 -train True -mp ./meerCRAB_model/
     
 - Select the appropriate parameters to be used for training the network.
 - model name: -m can take the following parameters: NET1 , NET2, NET3, NET1_32_64,  NET1_64_128,  NET1_128_256
@@ -56,7 +56,7 @@ How to perform prediction on new candidate images without training using python 
 ---
 Using specific parameters:
 
-    python predict.py -dd./data/dumpformachinelearning_20200114161507.csv -m NET3 -n NRDS -minP 35 -maxP 65 -t theshold_9 -train True -p 0.5 -mp ./meerCRAB_model/
+    python predict.py -dd./data/dumpformachinelearning_20200114161507.csv -m NET3 -n NRD -minP 35 -maxP 65 -t theshold_9 -train True -p 0.5 -mp ./meerCRAB_model/
 
 - data path: -dd is a string that indicates the data directory
 - model name: -m can take the following parameters: NET1 , NET2, NET3, NET1_32_64,  NET1_64_128,  NET1_128_256
