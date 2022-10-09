@@ -29,6 +29,7 @@ Ensure python 3.6 has been set-up first
     Install requirements: python setup.py install
     Version: python setup.py --version
 
+If any error occurs when git clone this repo, for e.g `git-lfs` error, please download the code the models from this link:  [meercrab](https://mega.nz/folder/wT5FCI5Q#TnQuM0uVHk4lcQhj14Mq_g)
 
 How to train the model using python script train.py?
 ---
