@@ -12,7 +12,11 @@ MeerLICHT Classification of Real And Bogus using deep learning. MeerCRAB is a de
 
 ![alt tag](./plots/meercrab_model.png)
 
+Dataset
+---
+The dataset (training and test set) for threshold 10 and threshold 9 used in this paper can be downloaded at: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7758673.svg)](https://doi.org/10.5281/zenodo.7758673)
 
+Label 0 is for bogus and Label 1 is for real objects.
 
 Create virtual environment
 ---
